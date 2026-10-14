@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Galaxy_Stirke_Game_Correct.slnx"
+    "dotnet.defaultSolution": "Galaxy Strike Game Correct.slnx"
 }
