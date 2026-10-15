@@ -125,3 +125,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Target
   boomVFX: {fileID: 4375717239176625984, guid: d3d4bc8b1cd388f4f8a13eb154b9fef2, type: 3}
+  hitPoints: 1
+  scoreValue: 100
